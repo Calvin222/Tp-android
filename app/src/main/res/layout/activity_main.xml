@@ -22,7 +22,7 @@
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Entrez login et mdp"/>
+            android:text="Entrez login et mdp / Test/Test"/>
 
         <EditText
             android:id="@+id/EnterEmail"
